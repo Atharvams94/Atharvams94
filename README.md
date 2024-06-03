@@ -1,5 +1,13 @@
-I'm Atharva Shanware, a software developer fueled by a passion for code. 
-My computer science degree equipped me with a strong foundation, and now I'm eager to put that knowledge to work building innovative solutions. 
-I'm always on the lookout for cool projects to dive into, and I thrive on technical challenges. 
+I'm Atharva Shanware, working as a software developer.
 
 Linkedin profile : https://www.linkedin.com/in/atharva-shanware-770b852a6/
+
+PROGRAMMING LANGUAGES : Python, Java, JavaScript, SQL, IBM Assembler, TPF-C, SPM, XML.
+FRAMEWORKS: Pandas, NLTK, OpenCV, Scikit-Learn, BootStrap, MongoDB, Node.js, React.js.
+TOOLS : zTPFGI, VS Code, Github, MySQL, IntelliJ, Jupyter Notebook, Anaconda, MS Office.
+PLATFORMS : Windows, Linux(Ubuntu), z/OS, z/TPF
+WEB SERVICES : SOAP, REST, Spring Boot
+VERSION CONTROL SYSTEMS : Git, CVS
+DATABASE : TPFDF, Oracle
+DEFECT TRACKING TOOLS : JIRA
+PROJECT MANAGEMENT TOOLS : Rally, Putty

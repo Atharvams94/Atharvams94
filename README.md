@@ -3,20 +3,21 @@ I'm Atharva Shanware, working as a software developer.
 Linkedin profile : https://www.linkedin.com/in/atharva-shanware-770b852a6/
 
 
-PROGRAMMING LANGUAGES : Python, Java, JavaScript, SQL, IBM Assembler, TPF-C, SPM, XML.
 
-FRAMEWORKS: Pandas, NLTK, OpenCV, Scikit-Learn, BootStrap, MongoDB, Node.js, React.js.
+PROGRAMMING LANGUAGES:-   Python, Java, JavaScript, SQL, IBM Assembler, TPF-C, SPM, XML.
 
-TOOLS : zTPFGI, VS Code, Github, MySQL, IntelliJ, Jupyter Notebook, Anaconda, MS Office.
+FRAMEWORKS:-   Pandas, NLTK, OpenCV, Scikit-Learn, BootStrap, MongoDB, Node.js, React.js.
 
-PLATFORMS : Windows, Linux(Ubuntu), z/OS, z/TPF.
+TOOLS:-   zTPFGI, VS Code, Github, MySQL, IntelliJ, Jupyter Notebook, Anaconda, MS Office.
 
-WEB SERVICES : SOAP, REST, Spring Boot.
+PLATFORMS:-   Windows, Linux(Ubuntu), z/OS, z/TPF.
 
-VERSION CONTROL SYSTEMS : Git, CVS.
+WEB SERVICES:-   SOAP, REST, Spring Boot.
 
-DATABASE : TPFDF, Oracle.
+VERSION CONTROL SYSTEMS:-   Git, CVS.
 
-DEFECT TRACKING TOOLS : JIRA.
+DATABASE:-   TPFDF, Oracle.
 
-PROJECT MANAGEMENT TOOLS : Rally, Putty. 
+DEFECT TRACKING TOOLS:-   JIRA.
+
+PROJECT MANAGEMENT TOOLS:-   Rally, Putty. 

@@ -4,7 +4,7 @@ Linkedin profile : https://www.linkedin.com/in/atharva-shanware-770b852a6/
 
 
 
-PROGRAMMING LANGUAGES:-   Python, Java, JavaScript, SQL, IBM Assembler, TPF-C, SPM, XML.
+PROGRAMMING LANGUAGES:-   Python, Java, JavaScript, SQL, IBM Assembler, TPF-C, SPM, XML. 
 
 FRAMEWORKS:-   Pandas, NLTK, OpenCV, Scikit-Learn, BootStrap, MongoDB, Node.js, React.js.
 

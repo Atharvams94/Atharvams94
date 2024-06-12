@@ -1,4 +1,4 @@
-Linkedin profile : https://www.linkedin.com/in/atharva-shanware-770b852a6/
+
 ----------------------------------------------------------------------------------------------
 PROGRAMMING LANGUAGES:-   Python, Java, JavaScript, SQL.
 

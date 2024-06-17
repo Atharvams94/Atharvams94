@@ -1,5 +1,3 @@
-
-----------------------------------------------------------------------------------------------
 PROGRAMMING LANGUAGES:-   Python, Java, JavaScript, C, C++
 
 FRAMEWORKS:-   Pandas, NLTK, OpenCV, Scikit-Learn, BootStrap, MongoDB, Node.js, React.js

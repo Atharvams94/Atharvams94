@@ -4,7 +4,7 @@ FRAMEWORKS:-   Pandas, NLTK, OpenCV, Scikit-Learn, BootStrap, MongoDB, Node.js, 
 
 TOOLS:-   zTPFGI, VS Code, Github, MySQL, IntelliJ, Jupyter Notebook, Anaconda, MS Office
 
-PLATFORMS:-   Windows, Linux(Ubuntu), z/OS, z/TPF
+PLATFORMS:-   Windows, Linux(Ubuntu)
 
 WEB SERVICES:-   SOAP, REST, Spring Boot
 
